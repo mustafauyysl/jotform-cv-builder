@@ -2,6 +2,8 @@
 IOS React Native, JotForm API, Redux, Redux Thunk
 
 I developed this project during my internship at JotForm.
+After filling the form, you can create and download your CV.
+
 
 # Screenshots
 
