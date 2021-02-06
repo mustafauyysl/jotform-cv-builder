@@ -3,8 +3,8 @@ import changeCvReducer from './changeCvReducer';
 import cvListReducer from './cvListReducer';
 
 const rootReducer = combineReducers({
-    changeCvReducer,
-    cvListReducer
-})
+  changeCvReducer,
+  cvListReducer,
+});
 
 export default rootReducer;

@@ -1,4 +1,4 @@
 export default {
-    currentCv: {},
-    cvs: []
-}
+  currentCv: {},
+  cvs: [],
+};
